@@ -1,5 +1,5 @@
 {
-  "name": "textlint",
+  "name": "root",
   "private": true,
   "scripts": {
     "bootstrap": "lerna bootstrap",
@@ -48,19 +48,7 @@
     "textlint-rule-no-dead-link": "^4.3.0",
     "textlint-rule-prh": "^5.2.0",
     "textlint-rule-rousseau": "^1.4.5",
-    "textlint-rule-unexpanded-acronym": "^1.2.3",
-    "write-good": "*",
-    "no-start-duplicated-conjunction": "*",
-    "max-comma": "*",
-    "terminology": "*",
-    "period-in-list-item": "*",
-    "period-in-list-item": "*",
-    "unexpanded-acronym": "*",
-    "abbr-within-parentheses": "*",
-    "alex": "*",
-    "common-misspellings": "*",
-    "en-max-word-count": "*",
-    "diacritics": "*",
+    "textlint-rule-unexpanded-acronym": "^1.2.3"
   },
   "lint-staged": {
     "*.{js,jsx,ts,tsx,css}": [

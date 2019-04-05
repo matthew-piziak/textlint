@@ -77,7 +77,20 @@
     "read-pkg-up": "^3.0.0",
     "structured-source": "^3.0.2",
     "try-resolve": "^1.0.1",
-    "unique-concat": "^0.2.2"
+    "unique-concat": "^0.2.2",
+    "write-good": "*",
+    "textlint-rule-no-start-duplicated-conjunction": "*",
+    "textlint-rule-max-comma": "*",
+    "textlint-rule-terminology": "*",
+    "textlint-rule-period-in-list-item": "*",
+    "textlint-rule-period-in-list-item": "*",
+    "textlint-rule-unexpanded-acronym": "*",
+    "textlint-rule-abbr-within-parentheses": "*",
+    "textlint-rule-alex": "*",
+    "textlint-rule-common-misspellings": "*",
+    "textlint-rule-en-max-word-count": "*",
+    "textlint-rule-diacritics": "*",
+    "textlint-rule-stop-words": "*"
   },
   "devDependencies": {
     "@types/mocha": "^5.2.5",
